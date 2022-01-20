@@ -1,13 +1,20 @@
 a{
     color:yellow
 }
-section{
-    background-color: section;
-}
+
 .mtbig{
     padding-top: 4rem !important ;
     
 }
-.new:hover{
-    background: pink;
+.more-service{
+    background-color: #e5e5e5;
+}
+.more-image{
+    width:60px;
+}
+.under{
+    margin-top:20px
+}
+.size{
+    font-size: 12px;
 }
